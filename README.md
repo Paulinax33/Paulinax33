@@ -1,5 +1,19 @@
 ### Hi there 👋
+- 🌱 I’m currently learning and development in this area: Java, SQL, HTML, CSS (I also try to work with Blender and Adobe).
+- 👯 I’m looking to collaborate with a company full of interesting projects
+- 🤔 I’m looking for help with ...
+- 📫 How to reach me: paulinka6105@onet.pl
+- ⚡ Fun fact: ...
+I know something about:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+Here I made my first daily:
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+I write codes in:
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulinax33&layout=compact)](https://github.com/Paulinax33/github-readme-stats)
 <!--
 **Paulinax33/Paulinax33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
