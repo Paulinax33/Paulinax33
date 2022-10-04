@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paulina</h1>
+<h1 align="center">Hi, I'm Paulina 👋</h1>
 <h3 align="center">I'm a student in computer science</h3>
 <img align="right" alt="Coding" width ="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
