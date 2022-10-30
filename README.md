@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Java, SQL, HTML, CSS (and try my best in Adobe and Blender)**
 
-- 📫 How to reach me **paulinka6105@onet.pl**
+- 📫 How to reach me **paulinka6105@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
