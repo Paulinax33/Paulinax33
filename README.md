@@ -2,7 +2,7 @@
 <h3 align="center">I'm a student of computer science</h3>
 <img align="right" alt="Coding" width ="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
-- 🌱 I’m currently learning **Java, SQL, HTML, CSS (and try my best in Adobe and Blender)**
+- 🌱 I’m currently learning **Java, SQL, HTML, CSS, C#, Ruby (and try my best in Adobe and Blender)**
 
 - 📫 How to reach me **paulinka6105@gmail.com**
 
