@@ -5,6 +5,7 @@
 - 🌱 I know: **Java, Unreal Engine, Unity, SQL, C#, Ruby, Blender, Canva, Figma, HTML, CSS**
 - What languages ​​am I learning? I check out whatever seems interesting.......
 - 📫 How to reach me **paulinka6105@gmail.com**
+- 🤔 I'm looking for something new for myself
 
 
 
