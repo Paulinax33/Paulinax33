@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Paulina 👋</h1>
-<h3 align="center">I'm a student of computer science</h3>
+<h3 align="center">Check me here and on GITLAB: **https://gitlab.com/Paulinax33**</h3>
 <img align="right" alt="Coding" width ="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
-- 🌱 I’m currently learning **Java, SQL, HTML, CSS, C#, Ruby (and try my best in Adobe and Blender)**
-
+- 🌱 I know: **Java, Unreal Engine, Unity, SQL, C#, Ruby, Blender, Canva, Figma, HTML, CSS**
+- 
 - 📫 How to reach me **paulinka6105@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
