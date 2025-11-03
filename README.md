@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width ="400" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif">
 
 - 🌱 I know: **Java, Unreal Engine, Unity, SQL, C#, Ruby, Blender, Canva, Figma, HTML, CSS**
-- 
+- What languages ​​am I learning? I check out whatever seems interesting.......
 - 📫 How to reach me **paulinka6105@gmail.com**
 
 
